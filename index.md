@@ -4,6 +4,10 @@ comments: false
 ---
 
 
+
+**News:** I've defended by dissertation on 09/16/2022!!
+
+
 Hi, I'm a final-year Ph.D. candidate working with Prof. [Felix Xiaozhu Lin](fxlin.github.io) in the school of Computer Science at University of Virginia (UVA).
 Prior to UVA CS, I have spent amazing four years at Purdue University with awesome folks of [XSEL](http://xsel.rocks) in the School of Electric and Computer Engineering. 
 I'm particularly intrigued by the complexity of computer systems and the endeavor of building them.
