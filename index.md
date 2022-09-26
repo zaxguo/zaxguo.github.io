@@ -5,7 +5,7 @@ comments: false
 
 
 
-**News:** I've defended by dissertation on 09/16/2022!!
+**News:** I've defended my dissertation *Operating and Runtime Systems towards an Efficient and Secure Edge* on 09/16/2022!!
 
 
 Hi, I'm a final-year Ph.D. candidate working with Prof. [Felix Xiaozhu Lin](fxlin.github.io) in the school of Computer Science at University of Virginia (UVA).
