@@ -19,7 +19,7 @@ My past and ongoing projects span multiple aspects of **kernel**, including **dr
 # Publication
 
 * [**ASPLOS'23** *(to appear)*] "Efficient NLP Inference at the Edge via Elastic Pipelining", **Liwei Guo**, Wonkyo Choe, and Felix Xiaozhu Lin.
-*       [**Eurosys'22**] "Minimum Viable Device Drivers for ARM TrustZone", **Liwei Guo**, and Felix Xiaozhu Lin, in Proc. ACM European Conference on Computer Systems 2022. [code]()
+*       [**Eurosys'22**] "Minimum Viable Device Drivers for ARM TrustZone", **Liwei Guo**, and Felix Xiaozhu Lin, in Proc. ACM European Conference on Computer Systems 2022. [code](https://zaxguo.github.io/drvlet/index.html)
 *	[**ATC’19**] "Transkernel: An Executor for Commodity Kernels on Peripheral Cores", **Liwei Guo**, Shuang Zhai, Yi Qiao, and Felix Xiaozhu Lin, in Proc. USENIX Annual Technical Conference 2019. [code](https://thexsel.github.io/p/transkernel/index.html)
 *	[**Eurosys’18**] "Power Sandbox: Power Awareness Redefined", **Liwei Guo**, **Tiantu Xu**, Mengwei Xu, Xuanzhe Liu, and Felix Xiaozhu Lin, in Proc. ACM European Conference on Computer Systems 2018. (co-primary) [code](https://thexsel.github.io/p/psbox/index.html)
 *	[**HotMobile’17**] "Decelerating Suspend and Resume in OS", Shuang Zhai, **Liwei Guo**, Xiangyu Li, and Felix Xiaozhu Lin, in Proc. ACM Int. Workshop on Mobile Computing Systems and Applications, 2017.
