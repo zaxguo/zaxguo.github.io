@@ -20,7 +20,7 @@ My past and ongoing projects span multiple aspects of **kernel**, including **dr
 
 # Publication
 
-* [**USENIX ATC'24** *(to appear)* ] "An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise", **Hongyu Li**, **Liwei Guo**, Yexuan Yang, Shangguang Wang, Mengwei Xu. (co-primary) (also invited to appear on **USENIX ;login:**)
+* [**USENIX ATC'24 (Best Paper Award!!)**] "An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise", **Hongyu Li**, **Liwei Guo**, Yexuan Yang, Shangguang Wang, Mengwei Xu. (co-primary) (also invited to appear on **[USENIX ;login:](https://www.usenix.org/publications/loginonline/empirical-study-rust-linux-success-dissatisfaction-and-compromise)**)
 * [**ASPLOS'23**] "Efficient NLP Inference at the Edge via Elastic Pipelining", **Liwei Guo**, Wonkyo Choe, and Felix Xiaozhu Lin.
 * [**EuroSys'22**] "Minimum Viable Device Drivers for ARM TrustZone", **Liwei Guo**, and Felix Xiaozhu Lin, in Proc. ACM European Conference on Computer Systems 2022. [code](https://zaxguo.github.io/drvlet/index.html)
 * [**USENIX ATC’19**] "Transkernel: An Executor for Commodity Kernels on Peripheral Cores", **Liwei Guo**, Shuang Zhai, Yi Qiao, and Felix Xiaozhu Lin, in Proc. USENIX Annual Technical Conference 2019. [code](https://thexsel.github.io/p/transkernel/index.html)
