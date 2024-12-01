@@ -16,11 +16,11 @@ My past and ongoing projects span multiple aspects of **kernel**, including **dr
 
 Education
 ---
-B.S.  Software Engineering, Sun Yat-sen University, 2016.
-M.S.  Computer Engineering, Purdue University, 2020.
-Ph.D. Computer Science, University of Virginia, 2022. 
 
-#I received my doctoral degree in 2022 from University of Virginia, advised by Prof. [Felix Xiaozhu Lin](https://fxlin.github.io) and bachelor degree in 2016 from Sun Yat-sen University, advised by Prof. [Zibin Zheng](https://www.zibinzheng.com/).
+*  B.S.  Software Engineering, Sun Yat-sen University, 2016
+*  M.S.  Computer Engineering, Purdue University, 2020
+*  Ph.D. Computer Science, University of Virginia, 2022
+
 
 Research
 ------
