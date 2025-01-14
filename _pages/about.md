@@ -15,7 +15,7 @@ Prior to UESTC and the facultyship, I was lucky to be awarded [Top Minds](https:
 **What I do:**
 
 *  **Old-fashion, old-school OS kernels**
-    * a in-depth analysis of Rust-for-Linux ([USENIX ATC'24](https://www.usenix.org/conference/atc24/presentation/li-hongyu), **Best Paper Award (first in China)**) 
+    * an in-depth analysis of Rust-for-Linux ([USENIX ATC'24](https://www.usenix.org/conference/atc24/presentation/li-hongyu), **Best Paper Award (first in China)**) 
     * a built-from-scratch software virtual machine with an inverse guest/host paradigm ([USENIX ATC'19](https://www.usenix.org/conference/atc19/presentation/guo))
     * an OS abstraction which provides energy isolation ([EUROSYS'18](https://dl.acm.org/doi/10.1145/3190508.3190533))
 *  **Trustworthy computing**
@@ -33,7 +33,7 @@ Prior to UESTC and the facultyship, I was lucky to be awarded [Top Minds](https:
   * Cloud gaming, rendering
   * Fully heterogeneous SoCs 
 
-**I am always looking for motivated students who are interested in systems and security research. If you'd like to join our group (as an undergrad intern or graduate student), please email me your CV!**
+**I am always looking for motivated students who are interested in above topics. If you'd like to join our group (as an undergrad intern or graduate student), please email me your CV!**
 
 Education
 ---
