@@ -11,9 +11,10 @@ I am a tenure-track Assistant Professor at University of Electronic Science and 
 My research is in the intersection of OS x Arch x PL, under the umbrella of efficiency and security.   
 Prior to UESTC and the facultyship, I was lucky to be awarded [Top Minds](https://career.huawei.com/reccampportal/portal5/topminds.html) from Huawei, where I had a little dabble in industry. 
 
+---
+
 
 **What I do:**
-
 *  **Old-fashion, old-school OS kernels**
     * an in-depth analysis of Rust-for-Linux ([USENIX ATC'24](https://www.usenix.org/conference/atc24/presentation/li-hongyu), **Best Paper Award (first in China)**) 
     * a built-from-scratch software virtual machine with an inverse guest/host paradigm ([USENIX ATC'19](https://www.usenix.org/conference/atc19/presentation/guo))
@@ -32,6 +33,8 @@ Prior to UESTC and the facultyship, I was lucky to be awarded [Top Minds](https:
   * Confidential computing 
   * Cloud gaming, rendering
   * Fully heterogeneous SoCs 
+
+---
 
 **I am always looking for motivated students who are interested in above topics. If you'd like to join our group (as an undergrad intern or graduate student), please email me your CV!**
 
