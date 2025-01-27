@@ -88,7 +88,8 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: USENIX ATC Best Paper Award (The FIRST in China)
+- name: >- 
+    <b>USENIX ATC Best Paper Award (The FIRST in China)</b>
   date: 2024
 - name: Huawei TopMinds
   date: 2023
