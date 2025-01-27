@@ -31,12 +31,31 @@ short_bio: >-
   </p>
 
   <p>
-    <b>What I do:</b>
-      <ul> 
-      <li><b>Old-fashioned, old-school OS kernels</b></li>
-      <li><b>Trustworthy Computing</b></li>
-      <li><b>Resource-efficient LLMs</b></li>
-      </ul>
+  <strong>What I do:</strong>
+    <ul>
+        <li>
+            <strong>Old-fashioned, old-school OS kernels</strong>
+            <ul>
+                <li>an in-depth analysis of Rust-for-Linux (<a href="https://www.usenix.org/conference/atc24/presentation/li-hongyu">USENIX ATC'24</a>, <strong>Best Paper Award (first in China)</strong>)</li>
+                <li>a built-from-scratch software virtual machine with an inverse guest/host paradigm (<a href="https://www.usenix.org/conference/atc19/presentation/guo">USENIX ATC'19</a>)</li>
+                <li>an OS abstraction which provides energy isolation (<a href="https://dl.acm.org/doi/10.1145/3190508.3190533">EUROSYS'18</a>)</li>
+            </ul>
+        </li>
+        
+        <li>
+            <strong>Trustworthy computing</strong>
+            <ul>
+                <li>device drivers which run fully inside Arm TrustZone (<a href="https://dl.acm.org/doi/10.1145/3492321.3519565">EUROSYS'22</a>)</li>
+            </ul>
+        </li>
+        
+        <li>
+            <strong>Resource-efficient LLM</strong>
+            <ul>
+                <li>an elastic IO/compute pipeline for efficient transformer inference (<a href="https://dl.acm.org/doi/abs/10.1145/3575693.3575698">ASPLOS'23</a>)</li>
+            </ul>
+        </li>
+    </ul>
 
   </p>
 
