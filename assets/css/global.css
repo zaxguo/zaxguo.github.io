@@ -67,19 +67,3 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
-.image-hover-container {
-  position: relative;
-  display: inline-block; /* 根据布局需求调整 */
-}
-
-.hover-image {
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0;
-  transition: opacity 0.3s ease; /* 平滑过渡效果 */
-}
-
-.image-hover-container:hover .hover-image {
-  opacity: 1;
-}
