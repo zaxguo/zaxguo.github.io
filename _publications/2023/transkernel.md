@@ -5,8 +5,9 @@ selected:       true
 pub:            "USENIX Annual Technical Conference (USENIX ATC)"
 pub_date:       "2019"
 abstract: >-
-  We present a novel OS model for heterogeneous multi-processors, which executes unmodified energy-consuming kernel code of a CPU on a microcontroller-like peripheral core. By combining DBT and emulation, a transkernel bridges ISA gaps and caters to core asymmetry with an inverse guest/host virtualization paradigm.
-cover:          /assets/images/covers/sti-engine.png
+  We present a novel OS model for heterogeneous multi-processors, which executes unmodified energy-consuming kernel code of a CPU on a microcontroller-like peripheral core. By combining DBT and emulation, a transkernel bridges ISA gaps and caters to core asymmetry with an inverse guest/host virtualization paradigm. Transkernel is inspired by various video game emulators.  
+
+cover:          /assets/images/covers/transkernel.png
 authors:
 - Liwei Guo
 - Shuang Zhai
