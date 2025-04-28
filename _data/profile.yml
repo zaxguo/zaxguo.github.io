@@ -52,7 +52,7 @@ short_bio: >-
         <li>
             <strong>Resource-efficient LLM</strong>
             <ul>
-                <li>an elastic IO/compute pipeline for efficient transformer inference (<a href="https://dl.acm.org/doi/abs/10.1145/3575693.3575698">ASPLOS'23</a>)</li>
+                <li>an elastic IO/compute pipeline for efficient transformer inference (<a href="https://dl.acm.org/doi/abs/10.1145/3575693.3575698">ASPLOS'23</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10906629">TMC'25</a>)</li>
             </ul>
         </li>
     </ul>
