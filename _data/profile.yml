@@ -36,7 +36,7 @@ short_bio: >-
         <li>
             <strong>Old-fashioned, old-school OS kernels</strong>
             <ul>
-                <li>an in-depth analysis of Rust-for-Linux (<a href="https://www.usenix.org/conference/atc24/presentation/li-hongyu">USENIX ATC'24</a>, <strong>Best Paper Award (first in China)</strong>)</li>
+                <li>an in-depth analysis of Rust-for-Linux (<a href="https://www.usenix.org/conference/atc24/presentation/li-hongyu">USENIX ATC'24</a>, <strong>Best Paper Award (first in China)</strong>, TOCS (to appear))</li>
                 <li>a built-from-scratch software virtual machine with an inverse guest/host paradigm (<a href="https://www.usenix.org/conference/atc19/presentation/guo">USENIX ATC'19</a>)</li>
                 <li>an OS abstraction which provides energy isolation (<a href="https://dl.acm.org/doi/10.1145/3190508.3190533">EUROSYS'18</a>)</li>
             </ul>
